@@ -1,4 +1,4 @@
-# Pneumonia Image Classification
+# Pneumonia Image Classification Using Deep Learning
 
 ![Normal_vs_Pneumonia_Xray](images/norm_pneu.jpg)
 
